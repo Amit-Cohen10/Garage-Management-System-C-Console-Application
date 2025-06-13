@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+*.db
+*.exe
+*.zip
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# Others
+*.log
