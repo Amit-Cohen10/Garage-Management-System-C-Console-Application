@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- במק–על-Apple Silicon אפשר להוסיף (לא חובה להרצה רגילה):
+    <RuntimeIdentifier>osx-arm64</RuntimeIdentifier>
+    -->
+  </PropertyGroup>
+
+</Project>
